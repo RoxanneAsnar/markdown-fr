@@ -1,13 +1,13 @@
-Learn Markdown
+Apprendre le Markdown
 ========
 
-You may have heard about Markdown, if you have it's a good thing.
+Vous avez déjà probablement entendu parler de Markdown, et si c'est le cas c'est super.
 
-Markdown is a plain text formatting syntax designed so that it can optionally be converted to HTML.
+Markdown est une syntaxe qui permet de de formater du texte brut, d'une manière permettant d'etre facilement convertit en HTML par la suite.
 
-In this book, you'll learn how to write document using the markdown syntax.
+Dans ce livre vous apprendrez comment écrire des documents en utilisant la syntaxe markdown.
 
 [![Figure 1](./assets/preview.png)](./assets/preview.png)
 
-Figure 1: Example of markdown with associated output document on the right.
+_**Figure 1**: Exemple de markdown associé à un document extérieur sur la droite._
 
